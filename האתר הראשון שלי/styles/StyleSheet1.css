@@ -1,0 +1,46 @@
+﻿body {
+    text-align:center;
+font-family:Arial;
+font-size:16px;
+background-color:white;
+color:blue;
+    
+}
+img{
+ opacity:0.5;
+width:400px;
+}
+img:hover{
+    opacity:1;
+}
+
+.li{
+    font-size:10px;
+    color:red;
+    list-style:square;
+    text-align:right;
+}
+
+
+
+
+h1 {
+    color: black;
+        ;
+}
+
+
+a:hover{
+    color:white;
+
+
+}
+
+#div {
+    font-size:12px;
+   background-color:blue;
+  width:200px;
+  height:400px;
+
+
+}
